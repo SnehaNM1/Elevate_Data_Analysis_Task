@@ -1,0 +1,23 @@
+Amazon Prime Video Dashboard – README
+Overview:
+This dashboard provides an interactive visual analysis of Amazon Prime Video content, focusing on availability, genre trends, content ratings, and regional distribution.
+
+Key Features:
+Global Prime Usage by Country: Map visualization of Prime Video presence across 87 countries.
+Content Type Breakdown: Donut chart comparing TV Shows (19%) vs Movies (81%).
+Most Popular Genres: Bar chart showing Drama, Comedy, and Suspense as the leading genres.
+Content Rating Distribution: Insight into age-based content ratings, with 13+ and 16+ being most common.
+Yearly Trend: Line chart showing growth in content availability over the years.
+Genre Filter: Interactive slicer to explore metrics by specific genres.
+
+Insights:
+Drama is the most represented genre with 986 titles.
+Majority of content is rated 13+ and 16+, targeting a teen to adult audience.
+Prime Video has a stronger focus on movies than TV shows.
+North America, Europe, and Asia show significant content availability.
+
+ Tools Used:
+Power BI
+
+Dataset: Amazon Prime Video(Genres, Ratings, Regions, Years)
+
